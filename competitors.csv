@@ -1,0 +1,8 @@
+name,country,type,focus,notes,url
+Faradars,Iran,Platform,General + AI,Large local platform; course-market model,https://faradars.org
+Maktabkhooneh,Iran,Platform,University-style + Skills,Learning paths and UX,https://maktabkhooneh.org
+Coursera,Global,Platform,University + Specializations,University partnerships and certificates,https://coursera.org
+DeepLearning.AI,Global,School,Deep learning,Specialized deep learning courses,https://deeplearning.ai
+fast.ai,Global,Community,Deep learning,Free practical courses and community,https://fast.ai
+Udacity,Global,Platform,Nanodegrees,Project-focused nanodegrees and industry partners,https://udacity.com
+DataCamp,Global,Platform,Interactive,Interactive coding practice and exercises,https://datacamp.com

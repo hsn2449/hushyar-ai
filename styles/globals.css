@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #1F1F23;
+  --card: #262629;
+  --muted: #BFC3C8;
+  --accent1: #FF6A00;
+  --accent2: #FF8C42;
+}
+
+html,body,#__next{height:100%}
+body { @apply bg-[var(--bg)] text-white font-sans; }
+.container { max-width:1100px; margin:0 auto; padding:28px; }
+.btn-brand { background: linear-gradient(90deg,var(--accent1),var(--accent2)); color:#111; padding:10px 16px; border-radius:10px; font-weight:700; }
+.card { background: var(--card); padding:18px; border-radius:12px; border:1px solid rgba(255,255,255,0.03); }
